@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mohamedezz01
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning java,Node.js.,html,css
+- 🌱 I’m currently learning spring boot,java,Node.js.,html,css
 - 📫 reach me on linkedin https://www.linkedin.com/in/mohamed-ezzeldin-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfdGwnqUcQ0ClLrJ8nrkgTQ%3D%3D
